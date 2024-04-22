@@ -1,0 +1,22 @@
+.header{
+    background-color: lightyellow;
+    height: 100px;
+    line-height: 100px;
+    text-align: center;
+}
+.Video{
+    background-color: lightyellow;
+    text-align: center;
+}
+.youtube{ 
+    background-color: lightyellow;
+    text-align: center;
+}
+.Tablue{
+    background-color: lightyellow;
+    text-align: center;
+}
+.Resume{
+    background-color: rgb(191, 191, 114);
+    height: 300px;
+}
